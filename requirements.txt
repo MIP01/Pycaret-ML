@@ -1,6 +1,6 @@
 pycaret==2.3.10
 pandas==1.5.2
-numpy==1.20.3
+numpy==1.23.1
 wheel==0.38.4
 toml==0.10.2
 tomli==2.0.1
